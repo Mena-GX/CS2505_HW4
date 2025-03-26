@@ -1,0 +1,52 @@
+18
+add Rhett Butler
+modify Albus Dumbledore:Sherlock Holmes
+modify Rhett Butler:Elizabeth Bennet
+remove Rhett Butler
+remove Rhett Butler
+display
+add Will Graham
+add Romeo Montague
+modify Romeo Montague:Brienne Tarth
+display
+modify Will Graham:Dolores Umbridge
+modify Jon Snow:Aragorn Elessar
+add Jane Eyre
+add Edward Rochester
+display
+delete
+23
+add Lucy Westenra
+add Elizabeth Lavenza
+modify Lucy Westenra:Aragorn Elessar
+modify Lucy Westenra:Peeta Mellark
+remove Elizabeth Lavenza
+add Van Helsing
+display
+modify Kathryn Janeway:Nick Carraway
+add Rubeus Hagrid
+modify Obi-Wan Kenobi:John Watson
+add William Riker
+modify Tormund Giantsbane:Scout Finch
+remove Van Helsing
+display
+add Katniss Everdeen
+delete
+11
+add Rubeus Hagrid
+remove Rubeus Hagrid
+modify Rubeus Hagrid:Peeta Mellark
+display
+remove Rubeus Hagrid
+display
+modify Rhett Butler:Mycroft Holmes
+modify Rubeus Hagrid:Captain Ahab
+remove Rubeus Hagrid
+modify Frodo Baggins:Will Graham
+modify Gandalf Grey:Edward Rochester
+add Leia Organa
+display
+add Holly Golightly
+add Sansa Stark
+delete
+0

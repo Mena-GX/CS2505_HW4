@@ -1,0 +1,123 @@
+Command: add Rhett Butler
+    Rhett Butler was added. 17 spot(s) remain.
+Command: modify Albus Dumbledore:Sherlock Holmes
+    No student with name Albus Dumbledore found.
+Command: modify Rhett Butler:Elizabeth Bennet
+    Student Rhett Butler name modified to Elizabeth Bennet.
+Command: remove Rhett Butler
+    No student named Rhett Butler was found to remove.
+Command: remove Rhett Butler
+    No student named Rhett Butler was found to remove.
+Command: display
+   Currently enrolled:
+    Student 1: Elizabeth Bennet
+Command: add Will Graham
+    Will Graham was added. 16 spot(s) remain.
+Command: add Romeo Montague
+    Romeo Montague was added. 15 spot(s) remain.
+Command: modify Romeo Montague:Brienne Tarth
+    No student with name Romeo Montague found.
+Command: display
+   Currently enrolled:
+    Student 1: Elizabeth Bennet
+    Student 2: Will Graham
+    Student 3: Romeo Montague
+Command: modify Will Graham:Dolores Umbridge
+    No student with name Will Graham found.
+Command: modify Jon Snow:Aragorn Elessar
+    No student with name Jon Snow found.
+Command: add Jane Eyre
+    Jane Eyre was added. 14 spot(s) remain.
+Command: add Edward Rochester
+    Edward Rochester was added. 13 spot(s) remain.
+Command: display
+   Currently enrolled:
+    Student 1: Elizabeth Bennet
+    Student 2: Will Graham
+    Student 3: Romeo Montague
+    Student 4: Jane Eyre
+    Student 5: Edward Rochester
+Command: delete
+    Elizabeth Bennet removed in class delete
+    Will Graham removed in class delete
+    Romeo Montague removed in class delete
+    Jane Eyre removed in class delete
+    Edward Rochester removed in class delete
+    Class was restarted and reopened for enrollment.
+
+Command: add Lucy Westenra
+    Lucy Westenra was added. 22 spot(s) remain.
+Command: add Elizabeth Lavenza
+    Elizabeth Lavenza was added. 21 spot(s) remain.
+Command: modify Lucy Westenra:Aragorn Elessar
+    Student Lucy Westenra name modified to Aragorn Elessar.
+Command: modify Lucy Westenra:Peeta Mellark
+    No student with name Lucy Westenra found.
+Command: remove Elizabeth Lavenza
+Student Elizabeth Lavenza removed. The course now has 22 seats remaining.Command: add Van Helsing
+    Van Helsing was added. 21 spot(s) remain.
+Command: display
+   Currently enrolled:
+    Student 1: Aragorn Elessar
+    Student 2: Van Helsing
+Command: modify Kathryn Janeway:Nick Carraway
+    No student with name Kathryn Janeway found.
+Command: add Rubeus Hagrid
+    Rubeus Hagrid was added. 20 spot(s) remain.
+Command: modify Obi-Wan Kenobi:John Watson
+    No student with name Obi-Wan Kenobi found.
+Command: add William Riker
+    William Riker was added. 19 spot(s) remain.
+Command: modify Tormund Giantsbane:Scout Finch
+    No student with name Tormund Giantsbane found.
+Command: remove Van Helsing
+Student Van Helsing removed. The course now has 20 seats remaining.Command: display
+   Currently enrolled:
+    Student 1: Aragorn Elessar
+    Student 2: Rubeus Hagrid
+    Student 3: William Riker
+Command: add Katniss Everdeen
+    Katniss Everdeen was added. 19 spot(s) remain.
+Command: delete
+    Aragorn Elessar removed in class delete
+    Rubeus Hagrid removed in class delete
+    William Riker removed in class delete
+    Katniss Everdeen removed in class delete
+    Class was restarted and reopened for enrollment.
+
+Command: add Rubeus Hagrid
+    Rubeus Hagrid was added. 10 spot(s) remain.
+Command: remove Rubeus Hagrid
+Student Rubeus Hagrid removed. The course now has 11 seats remaining.Command: modify Rubeus Hagrid:Peeta Mellark
+    No student with name Rubeus Hagrid found.
+Command: display
+   Currently enrolled:
+Command: remove Rubeus Hagrid
+    No student named Rubeus Hagrid was found to remove.
+Command: display
+   Currently enrolled:
+Command: modify Rhett Butler:Mycroft Holmes
+    No student with name Rhett Butler found.
+Command: modify Rubeus Hagrid:Captain Ahab
+    No student with name Rubeus Hagrid found.
+Command: remove Rubeus Hagrid
+    No student named Rubeus Hagrid was found to remove.
+Command: modify Frodo Baggins:Will Graham
+    No student with name Frodo Baggins found.
+Command: modify Gandalf Grey:Edward Rochester
+    No student with name Gandalf Grey found.
+Command: add Leia Organa
+    Leia Organa was added. 10 spot(s) remain.
+Command: display
+   Currently enrolled:
+    Student 1: Leia Organa
+Command: add Holly Golightly
+    Holly Golightly was added. 9 spot(s) remain.
+Command: add Sansa Stark
+    Sansa Stark was added. 8 spot(s) remain.
+Command: delete
+    Leia Organa removed in class delete
+    Holly Golightly removed in class delete
+    Sansa Stark removed in class delete
+    Class was restarted and reopened for enrollment.
+
